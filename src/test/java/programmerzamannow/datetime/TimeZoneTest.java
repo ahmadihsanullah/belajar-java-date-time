@@ -9,7 +9,6 @@ import org.junit.jupiter.api.Test;
 
 public class TimeZoneTest {
     
-    private String[] availableIDs;
 
     @Test
     void create(){
